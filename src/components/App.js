@@ -2,6 +2,7 @@ import video from "../data/video.js";
 
 function App() {
   console.log("Here's your data:", video);
+  //This is another practice challange to do when i get a chance
 
   return (
     <div className="App">
